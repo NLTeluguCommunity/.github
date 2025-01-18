@@ -1,12 +1,12 @@
-## Hi there 👋
-# Welcome to NLTC GitHub 
-<!--
+### Hi there 👋 Welcome to the GitHub repository of NLTC
 
-**Here are some ideas to get you started:**
+## About NLTC
+Netherlands Telugu Community is a non-profit and non-political organization created to Engage , Connect & Thrive . The main objectives to form the association is to assist in integrating with Dutch society for the newcomers(expats) and also those who have been living in Netherlands, providing the basic for all the new entries into Netherlands, promoting cultural and sport activities to bring all different Telugu speaking communities under one umbrella understanding/sharing cultures and traditions and raise charities concerning various purposes for the social cause. Though the association is registered for the benefits of Telugu speaking people in Netherlands, it also lends its hand to provide the same benefits to all Indians in Netherlands
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 🌈 Contribution guidelines
+how can the community get involved?
+
+## 👩‍💻 Useful resources
+where can the community find your docs? Is there anything else the community should know?
+
+[NLTC Website](https://nltelugucommunity.org/)
