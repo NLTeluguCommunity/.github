@@ -1,6 +1,7 @@
 # .github
 This is standard Github repository. [Read here for more info](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/customizing-your-organizations-profile#adding-a-public-organization-profile-readme)
 
+```
 .github/
 ├── workflows/              # GitHub Actions workflows
 │   ├── ci.yml              # Continuous integration workflow
@@ -14,3 +15,4 @@ This is standard Github repository. [Read here for more info](https://docs.githu
 ├── CODEOWNERS              # Code owners file
 ├── FUNDING.yml             # Funding configuration
 └── dependabot.yml          # Dependabot configuration
+```
